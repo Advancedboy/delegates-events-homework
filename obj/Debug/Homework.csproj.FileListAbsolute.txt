@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\delegate_event\Homework\bin\Debug\Homework.exe.config
+E:\#1Programming\2022\patterns\delegate_event\Homework\bin\Debug\Homework.exe
+E:\#1Programming\2022\patterns\delegate_event\Homework\bin\Debug\Homework.pdb
+E:\#1Programming\2022\patterns\delegate_event\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\delegate_event\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\delegate_event\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\delegate_event\Homework\obj\Debug\Homework.exe
+E:\#1Programming\2022\patterns\delegate_event\Homework\obj\Debug\Homework.pdb
